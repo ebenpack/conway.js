@@ -1,0 +1,8 @@
+{
+  "name": "conway",
+  "version": "0.0.1",
+  "description": "Conway's game of life",
+  "main": "src/conway.js",
+  "author": "Eben Packwood",
+  "license": "MIT"
+}
